@@ -5,8 +5,8 @@
 
 - ⚽ I like soccer, chess and not sleeping
 
+- 🔭 I’m currently working on AI/ML agentic solutions
 
-- 🔭 I’m currently working on AI/ML agentic solutions @Algorise-Ltd
 - 📫 How to reach me: wassim.elmnajja2@gmail.com
+
 - ⚡ Fun fact: ** $$e^{i\pi} + 1 = 0$$ **
-- 🌐 Checkout: https://www.algorise.co.uk
